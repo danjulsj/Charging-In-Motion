@@ -7,7 +7,7 @@ Electric vehicles seem like the future. Maybe they are, but they aren't the full
 
 This system's power lines look like those on trams, don't they? 
 Yeah, they probably do but they're quite different. Instead of using a double rail to complete the electric circuit for charge to travel... why not alternate the wires? One section of cable will provide the charge, the next section will complete the circuit. Also, the cables don't span the entire length of the roadway -- some parts they are present, others they aren't (such as in intersections). You'll see why below...
-Here's a little ascii diagram showing the cable:
+Here's a little ascii diagram showing a section of the cable:
 <pre>
 __________________________________________________________________________________________ <-solar canopy
 00----++++----++++----++++00                     00----++++----++++----++++00          
