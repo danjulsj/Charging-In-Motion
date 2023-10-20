@@ -10,7 +10,7 @@ Yeah, they probably do but they're quite different. Instead of using a double ra
 Here's a little ascii diagram showing the cable:
 <pre>
 __________________________________________________________________________________________ <-solar canopy
-000-----+++++-----+++++-----+++++000                                  000-----+++++-----+++++-----+++++000          
+00----++++----++++----++++00                     00----++++----++++----++++00          
 </pre>
 ## Charging In Motion in practice (layered on Google Maps)
 <img src="https://github.com/danjulsj/Charging-In-Motion/blob/main/Images/chargingInMotionGE.png"/>
