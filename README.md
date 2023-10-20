@@ -4,3 +4,6 @@ Electric vehicles seem like the future. Maybe they are, but they aren't the full
 
 ## Diagram showing how the Charging In Motion system would work, and comparison with existing EV charging systems:
 <img src="https://github.com/danjulsj/Charging-In-Motion/blob/main/Images/charginInMotion.png"/>
+
+## Charging In Motion in practice (layered on Google Maps)
+<img src="https://github.com/danjulsj/Charging-In-Motion/blob/main/Images/chargingInMotionGE.png"/>
